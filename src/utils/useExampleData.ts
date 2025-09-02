@@ -25,7 +25,10 @@ function csvToArray<T extends Record<string, any>>(input: string): T[] {
 // Loads and parses example CSV data using progressive injection
 export function useExampleData<T extends Record<string, any>>() {
 	return useProgressiveData<T>(
-		() => fetch('http://localhost:5173/example_data.csv').then(r => r.text()),
+		() =>
+			fetch(`${import.meta.env.BASE_URL}/publin/test_data-1000000.csv`).then(
+				r => r.text()
+			),
 		csvToArray
 	);
 }
