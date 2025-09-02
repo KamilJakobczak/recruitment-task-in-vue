@@ -26,9 +26,9 @@ function csvToArray<T extends Record<string, any>>(input: string): T[] {
 export function useExampleData<T extends Record<string, any>>() {
 	return useProgressiveData<T>(
 		() =>
-			fetch(`${import.meta.env.BASE_URL}/publin/test_data-1000000.csv`).then(
-				r => r.text()
-			),
+			fetch(
+				`${import.meta.env.BASE_URL}test_data/test_data-1000000.csv`
+			).then(r => r.text()),
 		csvToArray
 	);
 }
