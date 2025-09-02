@@ -1,0 +1,1001 @@
+account,date,amount,currency,title,category
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
+DAILY,2010-07-05,-80,PLN,Books from Empik,Education
+DAILY,2010-08-12,-200,PLN,Electricity bill,Utilities
+CREDIT,2010-09-01,-150,GBP,Spotify subscription,Entertainment
+DAILY,2010-10-10,-90,PLN,Dinner at restaurant,Food
+SAVINGS,2010-11-01,3000,EUR,Stock dividends,Income
+DAILY,2010-12-05,-75,PLN,Haircut and grooming,Personal Care
+CREDIT,2011-01-18,-220,USD,New headphones,Electronics
+SAVINGS,2011-02-01,2500,EUR,Tax refund,Income
+DAILY,2011-03-10,-110,PLN,Monthly gym membership,Health
+CREDIT,2011-04-22,-180,GBP,Concert tickets,Entertainment
+DAILY,2011-05-05,-45,PLN,Lunch at work,Food
+SAVINGS,2011-06-01,4000,EUR,Side hustle income,Income
+CREDIT,2011-07-15,-320,USD,Weekend getaway,Travel
+DAILY,2011-08-10,-95,PLN,Vet visit for dog,Pets
+DAILY,2011-09-20,-130,PLN,Back-to-school supplies,Education
+CREDIT,2011-10-01,-60,GBP,Netflix subscription,Entertainment
+DAILY,2011-11-11,-250,PLN,Winter jacket,Clothing
+SAVINGS,2011-12-01,6000,EUR,Year-end bonus,Income
+CREDIT,2012-01-05,-140,USD,Online course fee,Education
+DAILY,2012-02-14,-70,PLN,Valentine's dinner,Leisure
+DAILY,2009-11-10,8300,PLN,Salary Oct/2009,Income
+DAILY,2009-11-12,-2100,PLN,Transfer for flat rent,Rent
+CREDIT,2010-01-10,-95,GBP,Amazon order,Shopping
+DAILY,2010-02-05,-150,PLN,Groceries at Lidl,Food
+SAVINGS,2010-03-01,5000,EUR,Freelance project payment,Income
+CREDIT,2010-03-15,-300,USD,Flight booking,Travel
+DAILY,2010-04-10,-120,PLN,Cinema tickets,Entertainment
+DAILY,2010-05-20,-60,PLN,Coffee with friends,Leisure
+SAVINGS,2010-06-01,10000,EUR,Bonus payout,Income
+CREDIT,2010-06-15,-450,USD,Hotel reservation,Travel
