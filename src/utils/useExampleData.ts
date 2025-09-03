@@ -1,5 +1,6 @@
+import { watch, type Ref } from 'vue';
 import { useProgressiveData } from '../composables/useProgressiveData';
-
+import { type DataSizes } from '../App.vue';
 // Parses CSV string into an array of typed objects
 function csvToArray<T extends Record<string, any>>(input: string): T[] {
 	const lines = input.split('\n');
@@ -23,12 +24,26 @@ function csvToArray<T extends Record<string, any>>(input: string): T[] {
 }
 
 // Loads and parses example CSV data using progressive injection
-export function useExampleData<T extends Record<string, any>>() {
-	return useProgressiveData<T>(
-		() =>
-			fetch(
-				`${import.meta.env.BASE_URL}test_data/test_data-1000000.csv`
-			).then(r => r.text()),
+export function useExampleData<T extends Record<string, any>>(
+	dataSize: Ref<DataSizes>
+) {
+	const fetcher = () =>
+		fetch(
+			`${import.meta.env.BASE_URL}test_data/test_data-${dataSize.value}.csv`
+		).then(r => r.text());
+
+	const { data, isFullyLoaded, loadingProgress, load } = useProgressiveData<T>(
+		fetcher,
 		csvToArray
 	);
+
+	// Watch for changes and reload
+	watch(dataSize, () => {
+		load();
+	});
+
+	// Initial load
+	load();
+
+	return { data, isFullyLoaded, loadingProgress };
 }

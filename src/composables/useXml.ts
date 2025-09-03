@@ -3,7 +3,6 @@ import { debounce, toXml } from '../utils';
 
 export function useXml<T extends Record<string, any>>(source: Ref<T[] | null>) {
 	const xml = ref('');
-	// TODO: TASK → avoid recomputing while user is still typing
 	const updateXml = debounce((data: T[]) => {
 		xml.value = toXml(data);
 	}, 1000);

@@ -15,11 +15,7 @@ export function useProgressiveData<T extends object>(
 	const isFullyLoaded = ref(false);
 
 	// Calculates loading progress as a percentage
-	const loadingProgress = computed(() => {
-		const totalLength = fullData.value.length;
-		if (totalLength === 0) return 0;
-		return Math.min(100, Math.floor((data.value.length / totalLength) * 100));
-	});
+	const loadingProgress = ref(0);
 
 	// Injects data chunks progressively using requestIdleCallback
 	function progRowInject() {
@@ -31,6 +27,14 @@ export function useProgressiveData<T extends object>(
 				data.value.push(...nextChunk);
 				index += chunkSize;
 			}
+			const totalLength = fullData.value.length;
+
+			if (totalLength > 0) {
+				loadingProgress.value = Math.min(
+					100,
+					Math.floor((data.value.length / totalLength) * 100)
+				);
+			}
 
 			if (index < fullData.value.length) {
 				requestIdleCallback(injectNextChunk);
@@ -38,6 +42,7 @@ export function useProgressiveData<T extends object>(
 				// Slight delay to allow progress bar to visually complete
 				setTimeout(() => {
 					isFullyLoaded.value = true;
+					loadingProgress.value = 100;
 				}, 300);
 			}
 		}
@@ -46,18 +51,23 @@ export function useProgressiveData<T extends object>(
 	}
 
 	// Fetch and parse data on mount, then start progressive injection
-	onMounted(() => {
+	function load() {
+		loadingProgress.value = 0;
+		isFullyLoaded.value = false;
+		data.value = [];
+		fullData.value = [];
 		fetcher().then(res => {
 			const parsed = parser(res).map(row => markRaw(row));
 			fullData.value = parsed;
-			data.value = parsed.slice(0, chunkSize);
+			data.value = parsed.slice(0, chunkSize); // Initial chunk;
 			progRowInject();
 		});
-	});
+	}
 
 	return {
 		data,
 		isFullyLoaded,
 		loadingProgress,
+		load,
 	};
 }

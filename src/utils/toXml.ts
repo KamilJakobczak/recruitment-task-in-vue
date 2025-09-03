@@ -1,4 +1,3 @@
-// TODO: TASK → implement exporting to XML
 export function toXml(input: Record<string, any>[]): string {
 	const escape = (value: any) =>
 		String(value)

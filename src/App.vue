@@ -1,5 +1,6 @@
 <template>
 	<ViewSelector v-model="view" />
+	<DataSelector v-model="dataSize" :dataSizes="dataSizes" />
 	<template v-if="view === 'xml'">
 		<XmlView :xml="xml" />
 	</template>
@@ -24,7 +25,7 @@
 
 <script setup lang="ts">
 // Vue core
-import { computed, ref, watch } from "vue";
+import { computed, ref, shallowRef, watch, watchEffect } from "vue";
 // Components
 import ViewSelector from "./components/ViewSelector.vue";
 import XmlView from "./components/XmlView.vue";
@@ -32,6 +33,7 @@ import GroupBySelector from "./components/GroupBySelector.vue";
 import ProgressBar from "./components/ProgressBar.vue";
 import GroupedTable from "./components/GroupedTable.vue";
 import FlatTable from "./components/FlatTable.vue";
+import DataSelector from "./components/DataSelector.vue";
 // Composables
 import { useTotals } from "./composables/useTotals";
 import { useXml } from "./composables/useXml";
@@ -50,11 +52,13 @@ export type Data = {
 	[key: string]: string;
 };
 export type GroupByKey = "category" | "currency" | "account";
+export type DataSizes = '100' | '1000' | '10000' | '100000' | '1000000';
 
-
+const dataSizes = ['100', '1000', '10000', '100000', '1000000'] as const;
 // ─────────────────────────────────────────────
 // 🎛️ View & Grouping State
 // ─────────────────────────────────────────────
+const dataSize = ref<DataSizes>('1000');
 const view = ref<"xml" | "table">("table");
 const groupBy = ref<GroupByKey>('category');
 // Grouping options available to the user
@@ -63,7 +67,8 @@ const groupingOptions: GroupByKey[] = ['account', 'category', 'currency'];
 // ─────────────────────────────────────────────
 // 📥 Load & Normalize Data
 // ─────────────────────────────────────────────
-const { data, isFullyLoaded, loadingProgress } = useExampleData<Data>();
+const { data, isFullyLoaded, loadingProgress } = useExampleData<Data>(dataSize);
+
 const safeData = computed(() =>
 	data.value.filter(row =>
 		typeof row.amount === "string" &&
@@ -90,20 +95,18 @@ const flatHeaders = computed(() => {
 // ─────────────────────────────────────────────
 // 📊 Grouped Data & Toggle
 // ─────────────────────────────────────────────
-// TODO: TASK → let the user also group by currency and account
 const { groupedData, headers, debouncedUpdate } = useGroupedData(safeData, groupBy)
 const { hidden, toggle: groupToggle } = useGroupToggle()
 
 // ─────────────────────────────────────────────
 // 🧮 Totals Calculation
 // ─────────────────────────────────────────────
-// TODO: TASK → handle different currencies. Use `plnToCurrency` function to get the rates
+
 const totals = useTotals(groupedData, groupBy)
 
 // ─────────────────────────────────────────────
 // 📤 XML Export
 // ─────────────────────────────────────────────
-// TODO: TASK → implement exporting to XML
 const xml = useXml(safeData);
 
 // ─────────────────────────────────────────────
@@ -138,7 +141,7 @@ const visibleGroupedData = computed(() =>
 // ─────────────────────────────────────────────
 // 🕵️ Watchers & Debounce
 // ─────────────────────────────────────────────
-// TODO: TASK → avoid recomputing while user is still typing
+
 watch(visibleFlatData, debouncedUpdate, { deep: true });
 
 </script>

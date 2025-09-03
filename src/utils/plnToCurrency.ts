@@ -17,7 +17,7 @@ export async function plnToCurrency(currency: string): Promise<number> {
 
 	try {
 		const res = await fetch(
-			`http://localhost:5173/currency/pln-to-${normalized}`
+			`${import.meta.env.BASE_URL}currency/pln-to-${normalized}`
 		);
 		if (!res.ok) throw new Error(`Failed to fetch rate for ${normalized}`);
 
