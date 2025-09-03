@@ -25,7 +25,7 @@
 
 <script setup lang="ts">
 // Vue core
-import { computed, ref, shallowRef, watch, watchEffect } from "vue";
+import { computed, ref, watch, } from "vue";
 // Components
 import ViewSelector from "./components/ViewSelector.vue";
 import XmlView from "./components/XmlView.vue";

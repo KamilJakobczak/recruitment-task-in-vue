@@ -1,4 +1,4 @@
-import { computed, markRaw, onMounted, ref, shallowRef, type Ref } from 'vue';
+import { markRaw, ref, shallowRef, type Ref } from 'vue';
 
 export function useProgressiveData<T extends object>(
 	fetcher: () => Promise<string>,
